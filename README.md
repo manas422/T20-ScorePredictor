@@ -24,3 +24,4 @@ The model takes the following features as input to predict the batting team's sc
 
 Dataset: https://www.kaggle.com/veeralakrishna/cricsheet-a-retrosheet-for-cricket?select=t20s
 
+To run the model open VSCode and run "streamlit run app.py" in terminal of vscode.
